@@ -11,9 +11,9 @@ The classification model, implemented in Python, showcases the effectiveness of 
 - **Feature Extraction (`/m-files`):**
   - This directory contains MATLAB files (`*.m`) focused on the extraction of features from EEG data.
 
-- **Classification Method (`MainClassificationForBipolarBorderline.ipynb`):**
+- **Classification Method:**
   - The main classification method, developed in Python, is located in the `MainClassificationForBipolarBorderline.ipynb` directory. This script leverages the extracted features for distinguishing between BD II and BPD.
-
+  - Classification using 5-fold crosvalidation, is located in the `Ehsan86_final.ipynb`.
 ## Repository Contents
 
 - `/m-files`: MATLAB files for EEG feature extraction.
